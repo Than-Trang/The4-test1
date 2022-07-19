@@ -531,7 +531,7 @@ header{
 }
 .the4s_img_testimonials{
     border-radius: 100%;
-    background-image: url("/images/img-testimonials.jpg");
+    background-image: url("../images/img-testimonials.jpg");
     background-position: -9px 170px;
     width: 104px;
     height: 104px;
